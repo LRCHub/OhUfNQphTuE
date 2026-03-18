@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "纏",
+  "base_artist": "TENSONG",
+  "createdAt": "2026-03-18T19:24:18.809370Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "纏",
+      "artist": "TENSONG",
+      "has_synced": false,
+      "path": "select/pl_01_纏_TENSONG.txt"
+    }
+  ]
+}
